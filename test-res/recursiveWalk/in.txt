@@ -1,0 +1,6 @@
+samples/binary
+samples
+samples/binary
+samples/no-such-file
+samples/     _ __   _          _  _ _ 
+//..2
