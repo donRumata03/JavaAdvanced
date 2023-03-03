@@ -4,6 +4,36 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/solutions/java-solutions" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test46_filesAndDirs/5jXohxpDlj0JGkm9rSTGI4dXlbNbnM" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test46_filesAndDirs/9RCYO6D6xVZ2rOOlC2Rxo0B1pTQylj" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test46_filesAndDirs/FLtDNmttHxL80wirLq354UvrUm1QBL" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test46_filesAndDirs/gEqUocv2RvV8XrcppTSCYsLXjm9LSb" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test46_filesAndDirs/ioNE9lGwx5dWeSWyTkc2bunoXOrcD2" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test52_dirsSupport/111" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/9zPC64069Oq94ukd4S3z75GlHelMk6/Gfhy3uIO892bKFMGlaralTGBD3mezd/6eV22mAU3tTyz2RHzWZ632vfuWz3mk/Ae0PpRZuorSYqKKZsyze9aTXcLjnO0" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/9zPC64069Oq94ukd4S3z75GlHelMk6/Gfhy3uIO892bKFMGlaralTGBD3mezd/6eV22mAU3tTyz2RHzWZ632vfuWz3mk/z3L09xKJX3CX0RpsmkY89fp006HwkQ" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/9zPC64069Oq94ukd4S3z75GlHelMk6/Gfhy3uIO892bKFMGlaralTGBD3mezd/tEqyapccLGcMucS87x6t9z9KPCHgNc/mJthtH24uLwJRqLEzp1L8Kk7x6w6rd/75MY5q4iiQzqaJafZ2baGZmB7Cojwn" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/9zPC64069Oq94ukd4S3z75GlHelMk6/Gfhy3uIO892bKFMGlaralTGBD3mezd/tEqyapccLGcMucS87x6t9z9KPCHgNc/mJthtH24uLwJRqLEzp1L8Kk7x6w6rd/ikc2kKTyalq8WHNnjqZoz2myxNJRmH" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/9zPC64069Oq94ukd4S3z75GlHelMk6/Gfhy3uIO892bKFMGlaralTGBD3mezd/tEqyapccLGcMucS87x6t9z9KPCHgNc/mJthtH24uLwJRqLEzp1L8Kk7x6w6rd/kQ66eWqfkiakk0CrZBx4058p25QEHN" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/9zPC64069Oq94ukd4S3z75GlHelMk6/Gfhy3uIO892bKFMGlaralTGBD3mezd/tEqyapccLGcMucS87x6t9z9KPCHgNc/x6WkJJqhPQ50zXxNiR2lsBAS2VboCy/HyaOs8yBFCna4IiMPSf90mN7KMzMuz" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/9zPC64069Oq94ukd4S3z75GlHelMk6/Gfhy3uIO892bKFMGlaralTGBD3mezd/tEqyapccLGcMucS87x6t9z9KPCHgNc/x6WkJJqhPQ50zXxNiR2lsBAS2VboCy/uhhvJAull8v10MlGeAt6Np7Dj35eUw" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/9zPC64069Oq94ukd4S3z75GlHelMk6/Gfhy3uIO892bKFMGlaralTGBD3mezd/tEqyapccLGcMucS87x6t9z9KPCHgNc/fAXiiDPblTjSeuXcZS3rKaTbdAakgu" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/9zPC64069Oq94ukd4S3z75GlHelMk6/Gfhy3uIO892bKFMGlaralTGBD3mezd/DaNoEu1KsVbi3dryMqD9EGlEgEGDq7" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/EVLDP0yNcCb2oHofIs6PjEQDXvlidd/odNPDI6YVvM4qSRZ2k3DhL3AM1mYkj/bP8VVgJZHs0Jq8A03vOY1fMQ5xsi5s/zAEl9d0p6VaOSGSwq4h956NQuKG343/KrbSymWJKoOUSJET45eiWvS8jKKFuh" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/EVLDP0yNcCb2oHofIs6PjEQDXvlidd/odNPDI6YVvM4qSRZ2k3DhL3AM1mYkj/bP8VVgJZHs0Jq8A03vOY1fMQ5xsi5s/2uZRyOwkFt7ioNE9lGwx5dWeSWyTkc" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/EVLDP0yNcCb2oHofIs6PjEQDXvlidd/odNPDI6YVvM4qSRZ2k3DhL3AM1mYkj/eGgOTGynulB8B47Z8LJt5wOzhvJsOx" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/EVLDP0yNcCb2oHofIs6PjEQDXvlidd/qw8IwQ6oEjQARZWMOiE8ikWRXUCzro/73r9BlhbLboir4Be1uB2i4IypBSA7H/E9gm0z7cRW0qQK0hRTcOoKojWajzJC" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/EVLDP0yNcCb2oHofIs6PjEQDXvlidd/qw8IwQ6oEjQARZWMOiE8ikWRXUCzro/ige3o8h9cVA0kvoufOEGOA6wsjEjdH/hII0PLt8tbbVzYdoOhSSiRcyzuoAVj/MuZlhNBg0TXxvawtcAPfMakTKwjvk7" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/EVLDP0yNcCb2oHofIs6PjEQDXvlidd/qw8IwQ6oEjQARZWMOiE8ikWRXUCzro/ige3o8h9cVA0kvoufOEGOA6wsjEjdH/hII0PLt8tbbVzYdoOhSSiRcyzuoAVj/xvyC88dnn7Jw1dUH4i5lMfJ5ie8HkE" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/EVLDP0yNcCb2oHofIs6PjEQDXvlidd/qw8IwQ6oEjQARZWMOiE8ikWRXUCzro/ige3o8h9cVA0kvoufOEGOA6wsjEjdH/RGQV16uL4NEMcBVblPBIxygb20D3q0" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/EVLDP0yNcCb2oHofIs6PjEQDXvlidd/qw8IwQ6oEjQARZWMOiE8ikWRXUCzro/YWhmylZGK1rmZJ8E6djNFHq3t6WOK9/T5KjyHbJV2j37yTA8MCIUUgWn3W5fE/3j6YoHt8Me9l1WtzO7UMebclHTwF4t" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test80_doubleRecursion/EVLDP0yNcCb2oHofIs6PjEQDXvlidd/qw8IwQ6oEjQARZWMOiE8ikWRXUCzro/YWhmylZGK1rmZJ8E6djNFHq3t6WOK9/T5KjyHbJV2j37yTA8MCIUUgWn3W5fE/TiRNaUm9qoV56Jh7ichxq9o4DJUeHc" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test10_oneEmptyFile" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test23_veryLargeFile" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test30_missingFiles" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test40_errorReading" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test53_dirsHash" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test70_singleRecursion" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
