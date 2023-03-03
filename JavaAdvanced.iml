@@ -34,6 +34,12 @@
       <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test40_errorReading" />
       <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test53_dirsHash" />
       <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test70_singleRecursion" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test46_filesAndDirs/0GuGF0ICL15Fx7qyTLQhUfGgv27AU8" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test46_filesAndDirs/G2raoD8zO6dsk7sZZ7u1Q54DUuzkQ9" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test46_filesAndDirs/JwBbPUbCxR7Li5ZuIh9JSzAEl9d0p6" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test46_filesAndDirs/s12VTaJErCOVoyJxz7jVlBcHRIIFul" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test46_filesAndDirs/VaOSGSwq4h956NQuKG343Eqvb4wmSO" />
+      <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test63_invalidFiles" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

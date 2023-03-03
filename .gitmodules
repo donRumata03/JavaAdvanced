@@ -1,7 +1,7 @@
 [submodule "java-advanced-2023"]
 	path = java-advanced-2023
 	url = https://www.kgeorgiy.info/git/geo/java-advanced-2023.git
-	ignore = dirty
+	ignore = all
 [submodule "solutions"]
 	path = solutions
 	url = https://www.kgeorgiy.info/git-students/year2021/Latypov_Vladimir/java-advanced
