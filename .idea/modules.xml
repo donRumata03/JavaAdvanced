@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaAdvanced.iml" filepath="$PROJECT_DIR$/JavaAdvanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-advanced-2023/modules/info.kgeorgiy.java.advanced.arrayset/info.kgeorgiy.java.advanced.arrayset.iml" filepath="$PROJECT_DIR$/java-advanced-2023/modules/info.kgeorgiy.java.advanced.arrayset/info.kgeorgiy.java.advanced.arrayset.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-advanced-2023/modules/info.kgeorgiy.java.advanced.base/info.kgeorgiy.java.advanced.base.iml" filepath="$PROJECT_DIR$/java-advanced-2023/modules/info.kgeorgiy.java.advanced.base/info.kgeorgiy.java.advanced.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-advanced-2023/modules/info.kgeorgiy.java.advanced.student/info.kgeorgiy.java.advanced.student.iml" filepath="$PROJECT_DIR$/java-advanced-2023/modules/info.kgeorgiy.java.advanced.student/info.kgeorgiy.java.advanced.student.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-advanced-2023/modules/info.kgeorgiy.java.advanced.walk/info.kgeorgiy.java.advanced.walk.iml" filepath="$PROJECT_DIR$/java-advanced-2023/modules/info.kgeorgiy.java.advanced.walk/info.kgeorgiy.java.advanced.walk.iml" />
     </modules>
   </component>
