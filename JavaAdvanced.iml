@@ -47,5 +47,6 @@
     <orderEntry type="module" module-name="info.kgeorgiy.java.advanced.walk" />
     <orderEntry type="library" name="li" level="project" />
     <orderEntry type="module" module-name="info.kgeorgiy.java.advanced.student" />
+    <orderEntry type="module" module-name="info.kgeorgiy.java.advanced.base" />
   </component>
 </module>
