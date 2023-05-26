@@ -40,6 +40,7 @@
       <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test46_filesAndDirs/s12VTaJErCOVoyJxz7jVlBcHRIIFul" />
       <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test46_filesAndDirs/VaOSGSwq4h956NQuKG343Eqvb4wmSO" />
       <excludeFolder url="file://$MODULE_DIR$/__Test__Walk__/test63_invalidFiles" />
+      <excludeFolder url="file://$MODULE_DIR$/solutions/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
